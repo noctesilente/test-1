@@ -97,3 +97,7 @@ asefjdslsd
 3. [깃허브 주소](https://github.com/noctesilente, "클릭하면 이동")
 
 
+# 사진 삽입
+
+![뚱랑이 이미지](./laptop.png)
+
